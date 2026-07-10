@@ -1,0 +1,6 @@
+# AI Squat Coach — minimal dependencies
+# Python 3.10+
+
+opencv-python>=4.8.0
+mediapipe>=0.10.9
+numpy>=1.24.0

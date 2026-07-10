@@ -1,0 +1,6 @@
+@"
+venv/
+__pycache__/
+*.pyc
+session_log.json
+"@ | Out-File -Encoding utf8 .gitignore
