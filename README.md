@@ -13,7 +13,7 @@ Point your webcam at yourself, and it counts your reps, scores your squat form, 
 
 ## Demo
 
-https://github.com/siddhanttiwari19/Smart-fitness-PT/assets/demo.mp4
+https://github.com/siddhanttiwari19/Smart-fitness-PT/blob/main/assets/demo.mp4
 
 *(GitHub doesn't autoplay videos in READMEs — click the link above to view, or check the repo's release/assets tab.)*
 
