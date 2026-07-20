@@ -7,6 +7,7 @@ Point your webcam at yourself, and it counts your reps, scores your squat form, 
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![OpenCV](https://img.shields.io/badge/opencv-computer%20vision-green)
 ![MediaPipe](https://img.shields.io/badge/mediapipe-pose%20tracking-orange)
+![Platform](https://img.shields.io/badge/platform-Android-lightgreen)
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)
 
 ---
